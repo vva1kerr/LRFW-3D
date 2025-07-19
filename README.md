@@ -10,7 +10,6 @@
 ```
 
 
-[Home](/index.html)
 
 ![calibration](/assets/gainesville_fixed_wing/content/calibration.gif)
 
